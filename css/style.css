@@ -1426,7 +1426,7 @@ h3 {
   position: relative;
   z-index: 2;
   overflow: hidden;
-  padding-top: 8px;
+  padding-top: 4px;
 }
 
 /* line 47, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_slider.scss */
@@ -1483,8 +1483,8 @@ h3 {
   bacjground-repeat: no-repeat;
   background-position: center top ;
   border-radius: 50%;
-  width: 700px;
-  height: 700px;
+  width: 500px;
+  height: 500px;
   content: '';
   opacity: 0.6;
 }
@@ -2456,7 +2456,7 @@ h3 {
 /* line 20, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_footer.scss */
 .footer .footer_top .menu_links ul li {
   display: inline-block;
-  margin-right: 40px;
+  margin-right: 38px;
 }
 
 @media (max-width: 767px) {
@@ -2469,7 +2469,7 @@ h3 {
 /* line 26, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_footer.scss */
 .footer .footer_top .menu_links ul li a {
   color: #fff;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 500;
 }
 
@@ -2531,8 +2531,8 @@ h3 {
 /* line 70, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_footer.scss */
 .footer .socail_links ul li a {
   color: #fff;
-  width: 50px;
-  height: 50px;
+  width: 40px;
+  height: 40px;
   display: inline-block;
   text-align: center;
   background: transparent;
@@ -2543,7 +2543,7 @@ h3 {
   margin-right: 15px;
   color: #FFFFFF;
   border: 1px solid #334A60;
-  font-size: 12px;
+  font-size: 10px;
   padding: 5px;
 }
 
@@ -3107,8 +3107,8 @@ h3 {
 
 .more-btn a {
   background: #D465EF;
-  padding: 15px 20px;
-  font-size: 26px;
+  padding: 15px 15px;
+  font-size: 18px;
   font-weight: 500;
   border: 1px solid transparent;
   color: #fff;
@@ -3116,7 +3116,7 @@ h3 {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 160px;
+  width: 130px;
   margin-left: auto;
   margin-right: auto;
 }
