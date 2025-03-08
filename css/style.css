@@ -1049,7 +1049,7 @@ h3 {
 .header-area .main-header-area .Appointment .book_btn a {
   background: #D465EF;
   padding: 20px 50px;
-  font-size: 26px;
+  font-size: 16px;
   font-weight: 500;
   border: 1px solid #D465EF;
   color: #fff;
@@ -1086,13 +1086,13 @@ h3 {
 .header-area .main-header-area .main-menu ul li {
   display: inline-block;
   position: relative;
-  margin: 0 34px;
+  margin: 0 20px;
 }
 
 /* line 157, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li a {
   color: #fff;
-  font-size: 30px;
+  font-size: 16px;
   text-transform: capitalize;
   font-weight: 400;
   display: inline-block;
@@ -1589,7 +1589,7 @@ h3 {
 .slider_area .single_slider .slider_text h3 {
   color: #FFF;
   font-family: "Muli", sans-serif;
-  font-size: 90px;
+  font-size: 50px;
   text-transform: capitalize;
   font-weight: 700;
   line-height: 82px;
@@ -1625,7 +1625,7 @@ h3 {
 @media (max-width: 767px) {
   /* line 141, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_slider.scss */
   .slider_area .single_slider .slider_text h3 {
-    font-size: 30px;
+    font-size: 20px;
     line-height: 35px;
   }
 }
@@ -1649,7 +1649,7 @@ h3 {
 
 /* line 180, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_slider.scss */
 .slider_area .single_slider .slider_text span {
-  font-size: 30px;
+  font-size: 18px;
   font-weight: 400;
   color: #FFFFFF;
   position: relative;
