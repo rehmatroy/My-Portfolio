@@ -1483,8 +1483,8 @@ h3 {
   bacjground-repeat: no-repeat;
   background-position: center top ;
   border-radius: 50%;
-  width: 500px;
-  height: 500px;
+  width: 600px;
+  height: 600px;
   content: '';
   opacity: 0.6;
 }
