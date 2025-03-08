@@ -408,9 +408,9 @@ h3 {
   background: #D465EF;
   color: #fff;
   display: inline-block;
-  padding: 16px 30px;
+  padding: 15px 22px;
   font-family: "Muli", sans-serif;
-  font-size: 18px;
+  font-size: 15px;
   font-weight: 500;
   border: 0;
   border: 1px solid transparent;
@@ -1413,17 +1413,20 @@ h3 {
 .slider_area .single_slider .social_links li a {
   width: 40px;
   height: 40px;
-  display: inline-block;
+  display: flex;
+  justify-content: center;  
+  text-align: center;
   text-align: center;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
   border: 1px solid rgba(255, 255, 255, 0.05);
   color: #fff;
-  font-size: 12px;
+  font-size: 10px;
   position: relative;
   z-index: 2;
   overflow: hidden;
+  padding-top: 8px;
 }
 
 /* line 47, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_slider.scss */
@@ -2453,7 +2456,7 @@ h3 {
 /* line 20, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_footer.scss */
 .footer .footer_top .menu_links ul li {
   display: inline-block;
-  margin-right: 46px;
+  margin-right: 40px;
 }
 
 @media (max-width: 767px) {
@@ -2466,7 +2469,7 @@ h3 {
 /* line 26, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_footer.scss */
 .footer .footer_top .menu_links ul li a {
   color: #fff;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 500;
 }
 
@@ -2590,7 +2593,7 @@ h3 {
 
 /* line 35, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_bradcam.scss */
 .bradcam_area h3 {
-  font-size: 50px;
+  font-size: 42px;
   color: #fff;
   font-weight: 700;
   margin-bottom: 0;
@@ -3104,7 +3107,7 @@ h3 {
 
 .more-btn a {
   background: #D465EF;
-  padding: 18px 30px;
+  padding: 15px 20px;
   font-size: 26px;
   font-weight: 500;
   border: 1px solid transparent;
@@ -3113,7 +3116,7 @@ h3 {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 200px;
+  width: 160px;
   margin-left: auto;
   margin-right: auto;
 }
