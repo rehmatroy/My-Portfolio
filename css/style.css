@@ -2531,8 +2531,8 @@ h3 {
 /* line 70, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_footer.scss */
 .footer .socail_links ul li a {
   color: #fff;
-  width: 40px;
-  height: 40px;
+  width: 45px;
+  height: 45px;
   display: inline-block;
   text-align: center;
   background: transparent;
@@ -2543,7 +2543,7 @@ h3 {
   margin-right: 15px;
   color: #FFFFFF;
   border: 1px solid #334A60;
-  font-size: 10px;
+  font-size: 12px;
   padding: 5px;
 }
 
