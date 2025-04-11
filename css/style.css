@@ -1380,6 +1380,11 @@ h3 {
   right: 20%;
   bottom: 0;
 }
+.contetn-div {
+  width: 55% !important;
+  margin-left:auto !important; ;
+}
+
 
 /* line 21, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_slider.scss */
 .slider_area .single_slider .social_links {
@@ -1591,7 +1596,7 @@ h3 {
 .slider_area .single_slider .slider_text h3 {
   color: #FFF;
   font-family: "Muli", sans-serif;
-  font-size: 50px;
+  font-size: 56px;
   text-transform: capitalize;
   font-weight: 700;
   line-height: 45px;
